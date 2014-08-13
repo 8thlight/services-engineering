@@ -11,7 +11,7 @@
 * Chapters 1-3 of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) 
 
 #### 2014-08-27
-* Chapter 4 (Stability Antipatterns) of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) _chapters TBD_
+* Chapter 4 (Stability Antipatterns) of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard)
 
 #### 2014-09-03
-* Chapter 5 (Stability Patterns) of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) _chapters TBD_
+* Chapter 5 (Stability Patterns) of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard)
