@@ -8,7 +8,10 @@
 * [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/) (Hale)
 
 #### 2014-08-20
-* [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) _chapters TBD_
+* Chapters 1-3 of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) 
 
 #### 2014-08-27
-* [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) _chapters TBD_
+* Chapter 4 (Stability Antipatterns) of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) _chapters TBD_
+
+#### 2014-09-03
+* Chapter 5 (Stability Patterns) of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard) _chapters TBD_
