@@ -24,3 +24,14 @@
 
 #### 2014-09-24
 * Chapter 16-18 of [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard)
+
+#### 2014-10-01
+* [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku) (McGranaghan)
+* [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
+
+#### 2014-10-08
+* [Getting Real About Distributed Systems Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability) (Kreps)
+* [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#heading=h.whsaboyw21nk) (Ewaschuk)
+
+#### 2014-10-15
+* [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus) (Chapters TBD)
