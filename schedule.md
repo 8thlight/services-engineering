@@ -34,4 +34,8 @@
 * [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#heading=h.whsaboyw21nk) (Ewaschuk)
 
 #### 2014-10-15
+* [Resilience Engineering: Part I](http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/)
+* [Resilience Engineering: Part II](http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/) (Allspaw)
+
+#### 2014-10-22
 * [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus) (Chapters TBD)
