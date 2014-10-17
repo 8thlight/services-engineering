@@ -38,4 +38,10 @@
 * [Resilience Engineering: Part II](http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/) (Allspaw)
 
 #### 2014-10-22
-* [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus) (Chapters TBD)
+* Chapters 1-2 of [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
+
+## 2014-10-29
+* Chapters 3-4 of [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
+
+## 2014-11-05
+* Chapters 5-8 of [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
