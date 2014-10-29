@@ -45,3 +45,9 @@
 
 ## 2014-11-05
 * Chapters 5-8 of [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
+
+## 2014-11-12
+* [On Designing and Deploying Internet Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) (Hamilton)
+
+## 2014-11-19
+* [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
