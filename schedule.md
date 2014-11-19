@@ -53,13 +53,16 @@
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
 
 ## 2014-11-26
-* Chapters 1-4 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* [no meeting]
 
 ## 2014-12-03
-* Chapters 5-8 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* Chapters 1-4 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 
 ## 2014-12-10
-* Chapters 9-13 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* Chapters 5-8 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 
 ## 2014-12-17
+* Chapters 9-13 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+
+## 2014-12-24
 * Chapters 14-18 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
