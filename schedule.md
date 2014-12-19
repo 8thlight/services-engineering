@@ -1,10 +1,16 @@
 # Schedule for 8th Light reading group
 
+## 2015-01-07
+* Chapters 9-18 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+
+## 2014-12-31
+* [no meeting]
+
 ## 2014-12-24
-* Chapters 14-18 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* [no meeting]
 
 ## 2014-12-17
-* Chapters 9-13 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* [no meeting]
 
 ## 2014-12-10
 * Chapters 5-8 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
