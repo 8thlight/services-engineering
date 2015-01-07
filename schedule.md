@@ -1,7 +1,13 @@
 # Schedule for 8th Light reading group
 
+## 2015-01-21
+* Chapters 1-3 [The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) (Zalewski)
+
+## 2015-01-14
+* [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
+
 ## 2015-01-07
-* Chapters 9-18 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* Chapters 9-18 of [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 
 ## 2014-12-31
 * [no meeting]
@@ -13,10 +19,10 @@
 * [no meeting]
 
 ## 2014-12-10
-* Chapters 5-8 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* Chapters 5-8 of [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 
 ## 2014-12-03
-* Chapters 1-4 of [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
+* Chapters 1-4 of [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 
 ## 2014-11-26
 * [no meeting]
