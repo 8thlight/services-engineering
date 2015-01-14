@@ -1,7 +1,11 @@
 # Schedule for 8th Light reading group
 
-## 2015-01-21
+## 2015-01-28
 * Chapters 1-3 [The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) (Zalewski)
+
+## 2015-01-21
+* [In Search of an Understandable Consensus Algorithm] (https://ramcloud.stanford.edu/raft.pdf) (Ongaro-Ousterhout)
+* [Paxos Made Simple] (http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf) (Lamport)
 
 ## 2015-01-14
 * [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
