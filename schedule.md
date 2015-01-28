@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-02-04
+* Chapter 4-6 [The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) (Zalewski)
+
 ## 2015-01-28
 * Chapters 1-3 [The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) (Zalewski)
 
