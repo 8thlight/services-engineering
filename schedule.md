@@ -1,5 +1,16 @@
 # Schedule for 8th Light reading group
 
+## 2015-03-25
+* [Learning to Embrace Failure](http://best.dtu.dk/SC13/p20-casestudy.pdf) (Limoncelli et al.)
+* [Some Rules for Engineering and Operations](http://blog.b3k.us/2012/01/24/some-rules.html) (Black)
+
+## 2015-03-18
+* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) (Moseley and Marks)
+
+## 2015-03-11
+* [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) (Corbett et al.)
+* [The Trouble with Timestamps](http://aphyr.com/posts/299-the-trouble-with-timestamps) (Kingsbury)
+
 ## 2015-03-04
 * Chapter 16-18 [The Tangled Web: A Guide to Securing Modern Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) (Zalewski)
 
