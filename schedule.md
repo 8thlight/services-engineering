@@ -2,7 +2,7 @@
 
 ## 2015-04-22
 * Chapter 7-8 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
-* 
+
 ## 2015-04-15
 * Chapter 5-6 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
 
