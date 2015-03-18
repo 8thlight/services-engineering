@@ -1,16 +1,16 @@
 # Schedule for 8th Light reading group
 
 ## 2015-04-22
-* Chapter 7-8 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
+* Chapter 7-8 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058) (Dekker)
 
 ## 2015-04-15
-* Chapter 5-6 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
+* Chapter 5-6 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058) (Dekker)
 
 ## 2015-04-08
-* Chapter 3-4 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
+* Chapter 3-4 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058) (Dekker)
 
 ## 2015-04-01
-* Chapter 1-2 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
+* Chapter 1-2 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058) (Dekker)
 
 ## 2015-03-25
 * [Learning to Embrace Failure](http://best.dtu.dk/SC13/p20-casestudy.pdf) (Limoncelli et al.)
