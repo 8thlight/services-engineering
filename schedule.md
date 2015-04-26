@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-04-29
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) (Kreps)
+
 ## 2015-04-22
 * Chapter 7-8 of [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/1472439058) (Dekker)
 
