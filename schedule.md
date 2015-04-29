@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-05-06
+* [Kafka: A Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/UM/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf) (Kreps et al.)
+
 ## 2015-04-29
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) (Kreps)
 
