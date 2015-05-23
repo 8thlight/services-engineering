@@ -5,7 +5,7 @@
 
 ## 2015-05-27
 * Section 4 of [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (Hellerstein et al.)
-.
+
 ## 2015-05-20
 * Sections 1-3 of [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (Hellerstein et al.)
 
