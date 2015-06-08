@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-06-10
+* [Distributed Systems Are a UX Problem](http://bravenewgeek.com/distributed-systems-are-a-ux-problem/) (Brave New Geek)
+
 ## 2015-06-03
 * Sections 5-8 of [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (Hellerstein et al.)
 
