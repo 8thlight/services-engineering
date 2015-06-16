@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-06-17
+* [Call me maybe: final thoughs](https://aphyr.com/posts/286-call-me-maybe-final-thoughts) (Kingsbury)
+
 ## 2015-06-10
 * [Distributed Systems Are a UX Problem](http://bravenewgeek.com/distributed-systems-are-a-ux-problem/) (Brave New Geek)
 
