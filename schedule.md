@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-06-24
+* [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Kleppmann)
+
 ## 2015-06-17
 * [Call me maybe: final thoughs](https://aphyr.com/posts/286-call-me-maybe-final-thoughts) (Kingsbury)
 
