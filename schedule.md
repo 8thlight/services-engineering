@@ -1,5 +1,9 @@
 # Schedule for 8th Light reading group
 
+## 2015-07-08
+* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for
+In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (Zahari et al.)
+
 ## 2015-06-24
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Kleppmann)
 
