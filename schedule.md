@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-07-15
+* [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) (Fowler)
+
 ## 2015-07-08
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for
 In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (Zahari et al.)
