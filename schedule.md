@@ -1,5 +1,8 @@
 # Schedule for 8th Light reading group
 
+## 2015-08-12
+* [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf) (Melnik et al.)
+
 ## 2015-07-15
 * [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) (Fowler)
 
