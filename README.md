@@ -35,6 +35,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [The Human Side of Postmortems](https://docs.google.com/file/d/0Byl4UKRYLErDVlJMNDNjaThiR2M/edit) (Zwieback)
 * [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
 * [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (Hellerstein et al.)
+* [The Art of the Propagator](http://web.mit.edu/~axch/www/art.pdf) (Radul and Sussman)
 
 
 #### Posts
