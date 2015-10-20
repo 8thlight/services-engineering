@@ -1,5 +1,11 @@
 # Schedule for 8th Light reading group
 
+## 2015-11-04
+* Sections 7-C [The Art of the Propagator](http://web.mit.edu/~axch/www/art.pdf) (Radul and Sussman)
+
+## 2015-10-28
+* Sections 1-6 [The Art of the Propagator](http://web.mit.edu/~axch/www/art.pdf) (Radul and Sussman)
+
 ## 2015-08-12
 * [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf) (Melnik et al.)
 
